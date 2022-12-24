@@ -1,4 +1,4 @@
-# Built an Expense Tracking App with ASP.NET Core MVC
+# Built an Expense Tracking App with ASP.NET Core MVC 6
 ![Screenshot from 2022-12-24 00-41-31](https://user-images.githubusercontent.com/61091636/209415202-131125ac-7bcf-41d5-ad48-ea425cd80f12.png)
 ![Screenshot from 2022-12-24 00-41-52](https://user-images.githubusercontent.com/61091636/209415260-17492a80-3ce8-4a7e-b35b-acc54756d092.png)
 ![Screenshot from 2022-12-24 00-41-56](https://user-images.githubusercontent.com/61091636/209415263-9c5d8953-4d3b-4b66-9f3d-41254f6c3d86.png)
